@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dolan</string>
+    <string name="speak">speak</string>
+    <string name="textinput">Gooby pls..</string>
+    <string name="hintInput">Gooby pls..</string>
+    <string name="nyelv">Nyelv</string>
+    <string name="english">Angol</string>
+    <string name="magyar">Magyar</string>
+    <string name="translate">magyarosíts!</string>
+    <string name="mondd">mondd</string>
+</resources>
